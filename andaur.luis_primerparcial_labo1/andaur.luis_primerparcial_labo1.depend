@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1621038984 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"alquileres.h"
+
+1621035522 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\categoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"categoria.h"
+
+1621036361 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621038892 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+
+1620419177 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621038658 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"categoria.h"
+	"juego.h"
+	"alquileres.h"
+	"datawarehouse.h"
+
+1621039187 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\utn.h
+
+1621039729 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\clientes.h
+
+1621039835 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\categoria.h
+
+1621039794 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\juego.h
+	"categoria.h"
+
+1621039447 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\alquileres.h
+	"fecha.h"
+	"juego.h"
+	"clientes.h"
+	"categoria.h"
+
+1621036434 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\datawarehouse.h
+	"juego.h"
+	"categoria.h"
+
+1621038119 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"clientes.h"
+
+1621029951 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis_primerparcial_labo1\fecha.h
+
